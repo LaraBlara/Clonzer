@@ -1,7 +1,7 @@
 # Clonzer
 Clone of https://www.razer.com/
 
-#Screenshots of the website
+Screenshots of the website
 
 ![Screenshot from 2024-09-24 23-50-12](https://github.com/user-attachments/assets/3fc281e7-333a-4606-96e9-630c1cf335a4)
 ![Screenshot from 2024-09-24 23-50-25](https://github.com/user-attachments/assets/28f0f16f-c420-4037-866c-d2c0809f864f)
